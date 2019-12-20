@@ -283,7 +283,7 @@ figure[mbr-media-size] {
     width: auto; }
 
   .mbr-figure {
-    width: 100% !important; } }
+    width: 80% !important; } }
 /*! Buttons */
 .btn {
   font-weight: 500;
